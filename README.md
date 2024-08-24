@@ -49,8 +49,8 @@ Web scraping may be prohibited by the terms of service of the websites you acces
 
 If you wish to hire me for custom web scraping solutions, development, or any other related services, feel free to reach out through the following platforms:
 
-- [Fiverr](https://www.fiverr.com/ndoubismarck){:target="_blank"}
-- [Upwork](https://www.upwork.com/freelancers/~015b187144c16c5adb){:target="_blank"}
+- <a href="https://www.fiverr.com/ndoubismarck" target="_blank">Fiverr</a>
+- <a href="https://www.upwork.com/freelancers/~015b187144c16c5adb" target="_blank">Upwork</a>
   
 ### Contributing
 
