@@ -45,6 +45,13 @@ This collection of Chrome extensions is designed to facilitate web scraping from
 **Legal Notice:**  
 Web scraping may be prohibited by the terms of service of the websites you access. This extension is provided for educational and personal purposes only. It is the responsibility of the user to ensure that their usage of this extension complies with all applicable laws and regulations, as well as the terms of service of the websites being scraped. The developers are not responsible for any misuse of this tool.
 
+### Hire Me
+
+If you wish to hire me for custom web scraping solutions, development, or any other related services, feel free to reach out through the following platforms:
+
+- [Fiverr](https://www.fiverr.com/ndoubismarck){:target="_blank"}
+- [Upwork](https://www.upwork.com/freelancers/~015b187144c16c5adb){:target="_blank"}
+  
 ### Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to suggest improvements, report bugs, or request new features.
